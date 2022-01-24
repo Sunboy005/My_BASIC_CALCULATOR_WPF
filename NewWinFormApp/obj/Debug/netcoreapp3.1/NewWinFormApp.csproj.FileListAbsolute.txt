@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\bin\Debug\netcoreapp3.1\NewWinFormApp.exe
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\bin\Debug\netcoreapp3.1\NewWinFormApp.deps.json
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\bin\Debug\netcoreapp3.1\NewWinFormApp.runtimeconfig.json
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\bin\Debug\netcoreapp3.1\NewWinFormApp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\bin\Debug\netcoreapp3.1\NewWinFormApp.dll
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\bin\Debug\netcoreapp3.1\NewWinFormApp.pdb
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\obj\Debug\netcoreapp3.1\NewWinFormApp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\obj\Debug\netcoreapp3.1\NewWinFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\obj\Debug\netcoreapp3.1\NewWinFormApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\obj\Debug\netcoreapp3.1\NewWinFormApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\obj\Debug\netcoreapp3.1\NewWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\obj\Debug\netcoreapp3.1\NewWinFormApp.dll
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\obj\Debug\netcoreapp3.1\NewWinFormApp.pdb
+C:\Users\hp\Desktop\Ewallet Project\NewWinFormApp\NewWinFormApp\obj\Debug\netcoreapp3.1\NewWinFormApp.genruntimeconfig.cache
